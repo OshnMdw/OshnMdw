@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OshnMdw
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python experts
+- 💞️ I’m looking to collaborate with python experts
 - 📫 You can reach me via my e-mail, gchcompanysl@gmail.com
 
 <!---
