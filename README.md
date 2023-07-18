@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @OshnMdw
+- 👋 Hi, I’m Oshan Madawa
+- 😃 I am a Computer Science & Engineering 3rd year undergraduate at the University of Moratuwa
 - 👀 I’m interested in coding
 - 💞️ I’m looking to collaborate with coding experts
 - 📫 You can reach me via my e-mail, gchoshanmadawa@gmail.com
