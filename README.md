@@ -31,6 +31,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oshnmdw&" alt="oshnmdw" /></p>
 
+# Watch snake eating my contributions 🫠
+
+![snake gif](https://github.com/OshnMdw/OshnMdw/blob/output/github-contribution-grid-snake.svg)
+
 
 <!---
 OshnMdw/OshnMdw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
