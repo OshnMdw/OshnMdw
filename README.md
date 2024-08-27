@@ -6,9 +6,16 @@
 <hr>
 
 <!--- snake -->
-<div align="center">
+<!---<div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
+</div>--->
+
+<div align="center">
+  <h2 align=left>My Contributions</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/OshnMdw/OshnMdw/output/github-contribution-grid-snake-dark.svg" />
+  
 </div>
 
 
