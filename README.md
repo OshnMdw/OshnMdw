@@ -32,9 +32,9 @@
 
 - 📝 Undergraduate at **University of Moratuwa**
 
-- 🌱 I’m currently learning **React JS, React Native, Nodejs, Docker and AWS**
+- 🌱 I’m currently learning **Machine Learning, Deep Learning and Data Science**
 
-- 💬 Ask me about **react JS, Python and React Native**
+- 💬 Ask me about **react JS, Python and NodeJS**
 
 - 📫 Feel free to reach me out **gchoshanmadawa@gmail.com**
 
