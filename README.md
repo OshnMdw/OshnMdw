@@ -34,7 +34,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning and Data Science**
 
-- 💬 Ask me about **react JS, Python and NodeJS**
+- 💬 Ask me about **React JS, Python and Node JS**
 
 - 📫 Feel free to reach me out **gchoshanmadawa@gmail.com**
 
