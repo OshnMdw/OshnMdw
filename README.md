@@ -23,7 +23,7 @@
   
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://pin.it/37rDDpGZi">
+<!--<img align="right" alt="Coding" width="400" src="https://pin.it/37rDDpGZi">-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oshnmdw&label=Profile%20views&color=0e75b6&style=flat" alt="oshnmdw" /> </p>
 
