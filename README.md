@@ -23,10 +23,9 @@
   
 </div>
 
+<p align="center"><img src="https://komarev.com/ghpvc/?username=oshnmdw&label=Profile%20views&color=0e75b6&style=flat" alt="oshnmdw" /> </p>
+
 <img align="right" alt="Coding" width="400" src="https://github.com/OshnMdw/OshnMdw/blob/master/image.gif">
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=oshnmdw&label=Profile%20views&color=0e75b6&style=flat" alt="oshnmdw" /> </p>
 
 
 - 💻 BSc(Hons) Degree Specialized in **Computer Science and Engineering**
@@ -40,6 +39,8 @@
 - 📫 Feel free to reach me out **gchoshanmadawa@gmail.com**
 
 - 🌐 Visit My Website **https://oshnmdw.github.io**
+
+
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
