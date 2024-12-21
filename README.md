@@ -5,7 +5,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=56&duration=2500&pause=500&vCenter=true&width=800&height=80&lines=Hello,+I'm+Oshan+Madawa)](https://git.io/typing-svg)
 <hr>
 
-
 <!--h2 without bottom border-->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=1000&color=F70909&center=true&vCenter=true&width=800&height=80&lines=A+Passionate+Full+Stack+Developer)](https://git.io/typing-svg)
 
@@ -39,8 +38,6 @@
 - 📫 Feel free to reach me out **gchoshanmadawa@gmail.com**
 
 - 🌐 Visit My Website **https://oshnmdw.github.io**
-
-
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
