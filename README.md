@@ -8,13 +8,6 @@
 <!--h2 without bottom border-->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=1000&color=F70909&center=true&vCenter=true&width=800&height=80&lines=A+Passionate+Full+Stack+Developer)](https://git.io/typing-svg)
 
-
-<!--- snake -->
-<!---<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>--->
-
 <div align="center">
   <h2 align=left>My Contributions</h2>
   <br>
