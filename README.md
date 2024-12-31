@@ -77,15 +77,6 @@
  </td>
 </tr>
 </table>
-<!---
-# Watch snake is eating my contributions 
-![snake animation](https://github.com/OshnMdw/OshnMdw/blob/output/github-contribution-grid-snake2.svg)
---->
-
-<!---
-OshnMdw/OshnMdw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
