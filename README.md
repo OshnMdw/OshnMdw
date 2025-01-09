@@ -28,7 +28,7 @@
 
 - 💬 Ask me about **React JS, Python and Node JS**
 
-- 📫 Feel free to reach me out **gchoshanmadawa@gmail.com**
+- 📫 Feel free to reach me out **oshanm.20@cse.mrt.ac.lk**
 
 - 🌐 Visit My Website **https://oshnmdw.github.io**
 
