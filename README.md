@@ -22,7 +22,7 @@
 
 - 💻 BSc(Hons) Degree Specialized in **Computer Science and Engineering**
 
-- 📝 Undergraduate at **University of Moratuwa**
+- 📝 Graduated from **University of Moratuwa**
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning and Data Science**
 
